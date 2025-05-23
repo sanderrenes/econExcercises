@@ -1,11 +1,3 @@
----
-layout: page
-title: "README"
-permalink: https://sanderrenes.github.io/econExcercises
----
-
-
-
 On Grasple we have the repository named:
 
 **Practice Material for Fundamental Courses in Economics**
