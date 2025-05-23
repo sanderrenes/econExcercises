@@ -18,7 +18,7 @@ dedicated to open educational practices. Furthermore, these exercises will not r
 review of every new print, new book, or new course but can be taken from one setting to
 the next with minimal effort.
 
-** To start using the exercises in your course:**
+**To start using the exercises in your course:**
 
 Create a Grasple course, search for the subjects that are relevant to your course, and add them to your
 Grasple course.
