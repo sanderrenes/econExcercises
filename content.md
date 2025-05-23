@@ -1,8 +1,8 @@
-----
+---
 layout: page
 title: "content"
 permalink: https://sanderrenes.github.io/econExcercises/content
-----
+---
 
 ## content of the repository ## 
 currently (23-05-2025) the following Subjects are available in both Dutch and English in the repository
