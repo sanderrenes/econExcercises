@@ -1,3 +1,11 @@
+---
+layout: page
+title: "README"
+permalink: https://sanderrenes.github.io/econExcercises/README
+---
+
+
+
 On Grasple we have the repository named:
 
 **Practice Material for Fundamental Courses in Economics**
@@ -41,13 +49,3 @@ Intermediate Microeconomics: Exercises addressing topics such as asymmetric info
 The exercises and materials are released under a CC BY 4.0 license, ensuring that teachers can freely use, modify, and share them. (please consider sharing any
 updates, improvements, additional questions, etc ) The set of exercises is maintained as a community resource at Grasple to support continuous improvement and community contributions, facilitating long-term use and adaptation.
 
-## Getting involved in development ## 
-Developing materials in Grasple is free for anyone. You can copy exercises to your own repository to create new, or improved exercises as you see fit.
-If you have suggested improvements for changes to exercises in the main set, or want to add your own exercises and subjects to this set, please let the maintainer of the
-exercises know.
-
-For the period April 2025 until 1 September 2026, the core developer, Sander Renes
-(s.renes-1 [at] tudelft.nl), will serve as the maintainer of the set of exercises. After this
-period, Grasple becomes the maintainer.
-
-for discussions about possible improvements, use the forum on github.
