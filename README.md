@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "README"
-permalink: https://sanderrenes.github.io/econExcercises/README
+permalink: https://sanderrenes.github.io/econExcercises
 ---
 
 
