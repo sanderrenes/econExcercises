@@ -7,7 +7,7 @@ permalink: https://sanderrenes.github.io/econExcercises/content
 ## content of the repository ## 
 currently (23-05-2025) the following Subjects are available in both Dutch and English in the repository
 
-| **ID**| **EN name**                                         | **NL name**                                         | **internal name**                            | ** No. exercises **|
+| **ID**| **EN name**                                         | **NL name**                                         | **internal name**                            | **No. exercises**|
 | ----- | --------------------------------------------------- | --------------------------------------------------- | -------------------------------------------- | --------- |
 | 17511 | 2X2 random equilibrium                              | 2X2 willekeurig evenwicht                           | Best-response 2x2                            | 4         |
 | 15342 | Adverse selection                                   | Averse selectie                                     |                                              | 1         |
