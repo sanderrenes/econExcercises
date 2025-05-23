@@ -1,8 +1,7 @@
-# econExcercises
-
 On Grasple we have the repository named:
 
 **Practice Material for Fundamental Courses in Economics**
+[Grasple](https://app.grasple.com/#/repositories/2534/subjects)
 
 The repository is designed as an open, collaborative collection of digital exercises and
 supplementary teaching materials for fundamental economics courses. It is structured into subjects
