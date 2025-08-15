@@ -38,8 +38,6 @@ document.getElementById("open-exercise").onclick = function() {
       </style></head><body><iframe src="${exerciseUrl}" allow="clipboard-read; clipboard-write" title="Grasple Exercise" ></iframe></body></html>
   `);
   win.document.close();
-  } else {
-    alert("Popup blocked! Please allow popups for this site.");
   }
 };
 </script>
