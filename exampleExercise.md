@@ -19,7 +19,7 @@ Embedding in github is giving lay-out issues. This exercise looks better in Gras
 /* Center the iframe at 80% of the viewport width */
 .full-bleed .wide-iframe {
   width: 80vw;
-  height: 560px;                   /* adjust as you like */
+# height: 560px;                   /* adjust as you like */
   display: block;
   margin: 0 auto;                  /* center within the full-bleed zone */
   border: 0;
