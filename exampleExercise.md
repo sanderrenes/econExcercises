@@ -10,7 +10,7 @@ body_class: exercise-page
     max-width: 100% !important; /* Remove theme’s narrow limit */
 }
 .exercise-page iframe {
-    width: 80%vw !important;
+    width: 80vw !important;
     display: block;
     margin: 0 auto;
 }
