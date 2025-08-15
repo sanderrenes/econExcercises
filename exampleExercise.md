@@ -1,4 +1,4 @@
-Embedding in GitHub is giving layout issues, so please open the exercise in a new window. 
+Embedding in GitHub is giving layout issues, please open the exercise in a new window. 
 
 <button id="open-exercise" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
   Open Exercise in New Window
