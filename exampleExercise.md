@@ -18,9 +18,9 @@ document.getElementById("open-exercise").onclick = function() {
     win.document.write(`
       <!DOCTYPE html>
       <html>
-        <head>
-          <title>Grasple Exercise</title>
-          <style>
+      <head>
+      <title>Grasple Exercise</title>
+      <style>
             html, body {
               height: 100%;
               margin: 0;
@@ -35,15 +35,15 @@ document.getElementById("open-exercise").onclick = function() {
               display: block;
               background: #fff;
             }
-          </style>
-        </head>
-        <body>
-          <iframe
-            src="${exerciseUrl}"
-            allow="clipboard-read; clipboard-write"
-            title="Grasple Exercise"
-          ></iframe>
-        </body>
+      </style>
+      </head>
+      <body>
+      <iframe
+      src="${exerciseUrl}"
+      allow="clipboard-read; clipboard-write"
+      title="Grasple Exercise"
+      ></iframe>
+      </body>
       </html>
     `);
     win.document.close();
