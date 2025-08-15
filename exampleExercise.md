@@ -14,7 +14,7 @@ Embedding in GitHub is giving layout issues, please open the exercise in a new w
 <script>
 document.getElementById("open-exercise").onclick = function() {
   window.open(
-    "/grapleExercise.html", // adjust path if needed!
+    "/graspleExercise.html", // adjust path if needed!
     "_blank",
     "noopener,noreferrer,width=1200,height=800"
   );
