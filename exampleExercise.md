@@ -4,67 +4,39 @@ title: "Example Exercise"
 permalink: https://sanderrenes.github.io/econExcercises/exampleExercise
 body_class: exercise-page
 ---
-<script>
 
-document.getElementById("open-exercise-NPV_NL").onclick = function() {
-  window.open(
-    "https://sanderrenes.github.io/econExcercises/exampleNPV_NL.html", // adjust path if needed!
-    "_blank",
-    "noopener,noreferrer,width=1200,height=800"
-  );
-};
-  
-document.getElementById("open-exercise").onclick = function() {
-  window.open(
-    "https://sanderrenes.github.io/econExcercises/graspleExercise.html", // adjust path if needed!
-    "_blank",
-    "noopener,noreferrer,width=1200,height=800"
-  );
-};
+  <p class="note">
+    Embedding in GitHub Pages can cause layout issues. Please open the exercise in a new tab/window.
+  </p>
 
+  <h2>Agency model</h2>
+  <p>A very basic principal–agent model question in English and Dutch:<br>
+     Een simpele vraag over principaal–agent modellen in Engels en Nederlands:</p>
 
-document.getElementById("open-exercise-NL").onclick = function() {
-  window.open(
-    "https://sanderrenes.github.io/econExcercises/graspleExerciseNL.html", // adjust path if needed!
-    "_blank",
-    "noopener,noreferrer,width=1200,height=800"
-  );
-};
+  <p>
+    <a class="btn" href="https://sanderrenes.github.io/econExcercises/graspleExercise.html"
+       target="_blank" rel="noopener noreferrer">
+      Open Exercise in New Window (English exercise)
+    </a>
 
-document.getElementById("open-exercise-NPV_UK").onclick = function() {
-  window.open(
-    "https://sanderrenes.github.io/econExcercises/ExampleExercise_NPV.html", // adjust path if needed!
-    "_blank",
-    "noopener,noreferrer,width=1200,height=800"
-  );
-};
-</script>
+    <a class="btn" href="https://sanderrenes.github.io/econExcercises/graspleExerciseNL.html"
+       target="_blank" rel="noopener noreferrer">
+      Open opgave in een nieuw scherm (Nederlandse opgave)
+    </a>
+  </p>
 
-Embedding in GitHub is giving layout issues, please open the exercise in a new window. 
+  <h2>Investment decision</h2>
+  <p>A basic investment question using the Net Present Value in English and Dutch:<br>
+     Een simpele investeringsvraag met Netto Contante Waarde berekening in Engels en Nederlands:</p>
 
+  <p>
+    <a class="btn" href="https://sanderrenes.github.io/econExcercises/exampleNPV_NL.html"
+       target="_blank" rel="noopener noreferrer">
+      Open opgave in een nieuw scherm (Nederlandse opgave)
+    </a>
 
-## Agency model
-A very basic principal-agent model question in English and Dutch:
-Een simpele vraag over principaal-agent modellen in Engels en Nederlands:
-
-<button id="open-exercise" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-  Open Exercise in New Window (English exercise)
-</button>
-
-<button id="open-exercise-NL" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-  Open opgave in een nieuw scherm (Nederlandse opgave)
-</button>
-
-
-## Investment decision 
-
-A basic investment question using the Net Present Value in English and Dutch:
-Een simpele investeringsvraag met Netto Contante waarde berekening in Engels en Nederlands:
-
-<button id="open-exercise-NPV_NL" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-  Open opgave in een nieuw scherm (Nederlandse opgave)
-</button>
-
-<button id="open-exercise-NPV_UK" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-  Open exercise in new screen (English Exercise)
-</button>
+    <a class="btn" href="https://sanderrenes.github.io/econExcercises/ExampleExercise_NPV.html"
+       target="_blank" rel="noopener noreferrer">
+      Open exercise in new screen (English Exercise)
+    </a>
+  </p>
