@@ -18,7 +18,7 @@ body_class: exercise-page
        target="_blank" rel="noopener noreferrer">
       Open Exercise in New Window (English exercise)
     </a>
-
+  </br>
    <a class="btn" href="https://sanderrenes.github.io/econExcercises/graspleExerciseNL.html"
        target="_blank" rel="noopener noreferrer">
       Open opgave in een nieuw scherm (Nederlandse opgave)
@@ -34,7 +34,7 @@ body_class: exercise-page
        target="_blank" rel="noopener noreferrer">
       Open opgave in een nieuw scherm (Nederlandse opgave)
     </a>
-
+ </br>
    <a class="btn" href="https://sanderrenes.github.io/econExcercises/ExampleExercise_NPV.html"
        target="_blank" rel="noopener noreferrer">
       Open exercise in new screen (English Exercise)
