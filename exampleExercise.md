@@ -7,7 +7,7 @@ body_class: exercise-page
 
 Embedding in GitHub is giving layout issues, please open the exercise in a new window. 
 
-
+## Agency model
 A very basic principal-agent model question in English and Dutch:
 Een simpele vraag over principaal-agent modellen in Engels en Nederlands:
 <button id="open-exercise" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
@@ -25,7 +25,6 @@ document.getElementById("open-exercise").onclick = function() {
 </script>
 
 
-
 <button id="open-exercise-NL" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
   Open opgave in een nieuw scherm (Nederlandse opgave)
 </button>
@@ -40,7 +39,7 @@ document.getElementById("open-exercise-NL").onclick = function() {
 };
 </script>
 
-
+## investment decision 
 
 A basic investment question using the Net Present Value in English and Dutch:
 Een simpele investeringsvraag met Netto Contante waarde berekening in Engels en Nederlands:
@@ -55,10 +54,11 @@ document.getElementById("open-exercise-NPV_NL").onclick = function() {
 };
 </script>
 
-
 <button id="open-exercise-NPV_NL" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
   Open opgave in een nieuw scherm (Nederlandse opgave)
 </button>
+
+
 
 <script>
 document.getElementById("open-exercise-NPV_UK").onclick = function() {
@@ -69,6 +69,7 @@ document.getElementById("open-exercise-NPV_UK").onclick = function() {
   );
 };
 </script>
+
 <button id="open-exercise-NPV_UK" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
   Open exercise in new screen (English Exercise)
 </button>
