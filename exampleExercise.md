@@ -19,10 +19,10 @@ body_class: exercise-page
       Open Exercise in New Window (English exercise)
     </a>
 
-    <a class="btn" href="https://sanderrenes.github.io/econExcercises/graspleExerciseNL.html"
+   <a class="btn" href="https://sanderrenes.github.io/econExcercises/graspleExerciseNL.html"
        target="_blank" rel="noopener noreferrer">
       Open opgave in een nieuw scherm (Nederlandse opgave)
-    </a>
+   </a>
   </p>
 
   <h2>Investment decision</h2>
@@ -35,8 +35,8 @@ body_class: exercise-page
       Open opgave in een nieuw scherm (Nederlandse opgave)
     </a>
 
-    <a class="btn" href="https://sanderrenes.github.io/econExcercises/ExampleExercise_NPV.html"
+   <a class="btn" href="https://sanderrenes.github.io/econExcercises/ExampleExercise_NPV.html"
        target="_blank" rel="noopener noreferrer">
       Open exercise in new screen (English Exercise)
-    </a>
+   </a>
   </p>
