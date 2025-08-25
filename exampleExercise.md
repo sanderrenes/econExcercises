@@ -8,7 +8,7 @@ body_class: exercise-page
 Embedding in GitHub is giving layout issues, please open the exercise in a new window. 
 
 <button id="open-exercise" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-  Open Exercise in New Window
+  Open Exercise in New Window (English exercise)
 </button>
 
 <script>
@@ -24,7 +24,7 @@ document.getElementById("open-exercise").onclick = function() {
 
 
 <button id="open-exercise-NL" style="padding: 12px 24px; font-size: 1.2em; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-  Open Exercise in New Window
+  Open opgave in een nieuw scherm (Nederlandse opgave)
 </button>
 
 <script>
